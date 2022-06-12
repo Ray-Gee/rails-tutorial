@@ -1,0 +1,1 @@
+{"buildTargets":["db","migrate0","restart","stop","up","web"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
