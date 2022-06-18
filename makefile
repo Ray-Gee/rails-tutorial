@@ -4,6 +4,10 @@ up:
 	docker compose up -d
 migrate0:
 	docker compose exec rails db:migrate VERSION=0
+migrate:
+	docker compose exec rails db:migrate
+rollback:
+	docker compose exec rails db:rollback
 stop:
 	docker compose stop
 db:

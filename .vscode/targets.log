@@ -7,7 +7,7 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 
 # This program built for i386-apple-darwin11.3.0
 
-# Make data base, printed on Sun Jun 12 12:01:19 2022
+# Make data base, printed on Fri Jun 17 22:04:49 2022
 
 # Variables
 
@@ -28,7 +28,7 @@ CURDIR := /Users/uedaryuuichi/works/docker-rails
 # makefile
 SHELL = /bin/sh
 # environment
-VSCODE_NLS_CONFIG = {"locale":"ja","availableLanguages":{"*":"ja"},"_languagePackId":"5c8c40d429ae8165ad0b13c71d693b4b.ja","_translationsConfigFile":"/Users/uedaryuuichi/Library/Application Support/Code/clp/5c8c40d429ae8165ad0b13c71d693b4b.ja/tcf.json","_cacheRoot":"/Users/uedaryuuichi/Library/Application Support/Code/clp/5c8c40d429ae8165ad0b13c71d693b4b.ja","_resolvedLanguagePackCoreLocation":"/Users/uedaryuuichi/Library/Application Support/Code/clp/5c8c40d429ae8165ad0b13c71d693b4b.ja/4af164ea3a06f701fe3e89a2bcbb421d2026b68f","_corruptedFile":"/Users/uedaryuuichi/Library/Application Support/Code/clp/5c8c40d429ae8165ad0b13c71d693b4b.ja/corrupted.info","_languagePackSupport":true}
+VSCODE_NLS_CONFIG = {"locale":"ja","availableLanguages":{"*":"ja"},"_languagePackId":"3cd3bd15e30fa0124a3f232cbca66525.ja","_translationsConfigFile":"/Users/uedaryuuichi/Library/Application Support/Code/clp/3cd3bd15e30fa0124a3f232cbca66525.ja/tcf.json","_cacheRoot":"/Users/uedaryuuichi/Library/Application Support/Code/clp/3cd3bd15e30fa0124a3f232cbca66525.ja","_resolvedLanguagePackCoreLocation":"/Users/uedaryuuichi/Library/Application Support/Code/clp/3cd3bd15e30fa0124a3f232cbca66525.ja/30d9c6cd9483b2cc586687151bcbcd635f373630","_corruptedFile":"/Users/uedaryuuichi/Library/Application Support/Code/clp/3cd3bd15e30fa0124a3f232cbca66525.ja/corrupted.info","_languagePackSupport":true}
 # environment
 _ = /usr/bin/make
 # makefile (from `makefile', line 1)
@@ -40,15 +40,13 @@ __CFBundleIdentifier = com.microsoft.VSCode
 # environment
 INFOPATH = /opt/homebrew/share/info:
 # environment
-VSCODE_IPC_HOOK_EXTHOST = /var/folders/s5/qq6q017d1wzd0f92c3488jd80000gn/T/vscode-ipc-0a49149d-caf4-497b-95f8-0217f54387a8.sock
+VSCODE_IPC_HOOK_EXTHOST = /var/folders/s5/qq6q017d1wzd0f92c3488jd80000gn/T/vscode-ipc-d9c5a5b7-71d3-4212-bb57-454c2f794368.sock
 # environment
 VSCODE_CWD = /
 # environment
 PATH = /Users/uedaryuuichi/.local/share/solana/install/active_release/bin:/Users/uedaryuuichi/.pyenv/shims:/Users/uedaryuuichi/.composer/vendor/bin:/usr/local/bin:/opt/homebrew/bin:/Users/uedaryuuichi/.rbenv/shims:/Users/uedaryuuichi/.pyenv/shims:/Users/uedaryuuichi/.local/share/solana/install/active_release/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Users/uedaryuuichi/.cargo/bin:/Users/uedaryuuichi/go/bin:/Users/uedaryuuichi/.pub-cache/bin
 # environment
 LSCOLORS = Gxfxcxdxbxegedabagacad
-# environment
-NODE_ENV = production
 # environment
 GOPATH = /Users/uedaryuuichi/go
 # environment
@@ -60,7 +58,7 @@ PYENV_ROOT = /Users/uedaryuuichi/.pyenv
 # default
 .FEATURES := target-specific order-only second-expansion else-if archives jobserver check-symlink
 # environment
-SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.k4giv1uca7/Listeners
+SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.8iYEgcAC4d/Listeners
 # automatic
 %F = $(notdir $%)
 # environment
@@ -82,11 +80,11 @@ HOME = /Users/uedaryuuichi
 # default
 MAKEFILEPATH := /Applications/Xcode.app/Contents/Developer/Makefiles
 # environment
-VSCODE_CODE_CACHE_PATH = /Users/uedaryuuichi/Library/Application Support/Code/CachedData/4af164ea3a06f701fe3e89a2bcbb421d2026b68f
+VSCODE_CODE_CACHE_PATH = /Users/uedaryuuichi/Library/Application Support/Code/CachedData/30d9c6cd9483b2cc586687151bcbcd635f373630
 # environment
 LOGNAME = uedaryuuichi
 # environment
-APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
 ZSH = /Users/uedaryuuichi/.oh-my-zsh
 # environment
@@ -120,7 +118,7 @@ TMPDIR = /var/folders/s5/qq6q017d1wzd0f92c3488jd80000gn/T/
 # automatic
 *F = $(notdir $*)
 # environment
-VSCODE_IPC_HOOK = /Users/uedaryuuichi/Library/Application Support/Code/1.68.0-main.sock
+VSCODE_IPC_HOOK = /Users/uedaryuuichi/Library/Application Support/Code/1.68.1-main.sock
 # environment
 PGPASSWORD = password
 # makefile
@@ -130,7 +128,7 @@ MFLAGS = -Rrqp
 # automatic
 *D = $(patsubst %/,%,$(dir $*))
 # environment
-XPC_SERVICE_NAME = application.com.microsoft.VSCode.8916953.8916959
+XPC_SERVICE_NAME = application.com.microsoft.VSCode.9315757.9315763
 # environment
 HOMEBREW_PREFIX = /opt/homebrew
 # automatic
@@ -162,9 +160,9 @@ MAKELEVEL := 0
 # environment
 LANG = C
 # environment
-VSCODE_PID = 19930
+VSCODE_PID = 14962
 # variable set hash-table stats:
-# Load=76/1024=7%, Rehash=0, Collisions=3/99=3%
+# Load=75/1024=7%, Rehash=0, Collisions=3/98=3%
 
 # Pattern-specific Variable Values
 
@@ -172,7 +170,7 @@ VSCODE_PID = 19930
 
 # Directories
 
-# . (device 16777230, inode 7460940): 36 files, no impossibilities.
+# . (device 16777233, inode 7460940): 36 files, no impossibilities.
 
 # 36 files, no impossibilities in 1 directories.
 
@@ -186,7 +184,7 @@ stop:
 #  Implicit rule search has not been done.
 #  Modification time never checked.
 #  File has not been updated.
-#  commands to execute (from `makefile', line 8):
+#  commands to execute (from `makefile', line 12):
 	docker compose stop
 	
 
@@ -203,8 +201,8 @@ t:
 #  Implicit rule search has not been done.
 #  Modification time never checked.
 #  File has not been updated.
-#  commands to execute (from `makefile', line 14):
-	docker compose exec rails test
+#  commands to execute (from `makefile', line 18):
+	docker compose exec web rails test
 	
 
 web:
@@ -232,18 +230,34 @@ up:
 # Not a target:
 makefile:
 #  Implicit rule search has been done.
-#  Last modified 2022-06-12 11:52:22
+#  Last modified 2022-06-12 20:23:58
 #  File has been updated.
 #  Successfully updated.
 # variable set hash-table stats:
 # Load=0/32=0%, Rehash=0, Collisions=0/0=0%
 
-db:
+rollback:
 #  Implicit rule search has not been done.
 #  Modification time never checked.
 #  File has not been updated.
 #  commands to execute (from `makefile', line 10):
+	docker compose exec rails db:rollback
+	
+
+db:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  commands to execute (from `makefile', line 14):
 	docker compose exec db bash
+	
+
+migrate:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  commands to execute (from `makefile', line 8):
+	docker compose exec rails db:migrate
 	
 
 migrate0:
@@ -264,12 +278,12 @@ restart:
 #  Implicit rule search has not been done.
 #  Modification time never checked.
 #  File has not been updated.
-#  commands to execute (from `makefile', line 12):
+#  commands to execute (from `makefile', line 16):
 	docker compose restart
 	
 
 # files hash-table stats:
-# Load=11/1024=1%, Rehash=0, Collisions=0/23=0%
+# Load=13/1024=1%, Rehash=0, Collisions=0/25=0%
 # VPATH Search Paths
 
 # No `vpath' search paths.
@@ -279,10 +293,11 @@ restart:
 # # of strings in strcache: 1
 # # of strcache buffers: 1
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
-# strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
-
-# Finished Make data base on Sun Jun 12 12:01:19 2022
-
  
 make: *** No rule to make target `all'.  Stop.
 
+# strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
+
+# Finished Make data base on Fri Jun 17 22:04:49 2022
+
+ 
