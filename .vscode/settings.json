@@ -1,3 +1,5 @@
 {
-    "makefile.extensionOutputFolder": "./.vscode"
+    "makefile.extensionOutputFolder": "./.vscode",
+    "ruby.rubocop.configFilePath": "",
+    "ruby.rubocop.executePath": "/Users/uedaryuichi/.rbenv/shims/"
 }

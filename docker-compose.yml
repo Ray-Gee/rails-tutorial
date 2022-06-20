@@ -24,3 +24,9 @@ services:
       - db
     stdin_open: true
     tty: true
+  # rubocop_daemon:
+  #   build:
+  #     context: .
+  #   command: bundle exec rubocop-daemon start --no-daemon
+  #   volumes:
+  #     - /app/.bundle

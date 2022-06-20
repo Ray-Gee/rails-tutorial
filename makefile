@@ -16,5 +16,3 @@ restart:
 	docker compose restart
 t:
 	docker compose exec web rails test
-# t:
-# 	docker compose run --rm web rails t
