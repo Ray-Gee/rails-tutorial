@@ -2,6 +2,8 @@ web:
 	docker compose exec web bash
 up:
 	docker compose up -d
+down:
+	docker compose stop
 migrate0:
 	docker compose exec rails db:migrate VERSION=0
 migrate:
