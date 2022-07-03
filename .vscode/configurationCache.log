@@ -1,1 +1,1 @@
-{"buildTargets":["db","down","make","migrate","migrate0","restart","rollback","stop","up","web"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}
+{"buildTargets":["down","make","migrate","migrate0","restart","rollback","sql","stop","up","web"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}

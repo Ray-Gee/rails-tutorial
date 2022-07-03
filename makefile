@@ -12,7 +12,7 @@ rollback:
 	docker compose exec rails db:rollback
 stop:
 	docker compose stop
-db:
+sql:
 	docker compose exec db bash
 restart:
 	docker compose restart

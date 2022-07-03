@@ -42,6 +42,9 @@ gem "rubocop"
 # gem "rubocop-packaging"
 # gem "htmlbeautifier"
 
+gem "roo"
+gem "activerecord-import"
+
 group :development, :test do
   # gem 'ruby-debug-ide'
   # gem "debase"

@@ -13,5 +13,7 @@ Rails.application.routes.draw do
   # get "sessions/new"
   # get "users/new"
   # get '/home', to: 'static_pages#home'
-  resources :users
+  resources :users do
+    collection { post :csv_import }
+  end
 end
